@@ -1,1 +1,5 @@
-Mhm
+--[[
+  ROBLOX Lua
+]]
+
+print( "Nothing to see here, no use looking!" );
